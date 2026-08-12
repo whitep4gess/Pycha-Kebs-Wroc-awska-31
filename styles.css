@@ -18,5 +18,5 @@
 .hero-overlay{background:linear-gradient(90deg,#11110fff 0%,#11110fee 42%,#11110f45 76%),linear-gradient(0deg,#11110ff2 0%,transparent 34%)}
 @media(max-width:900px){.hero-image{background-position:58% center;filter:brightness(.65) saturate(.86)}.hero-overlay{background:linear-gradient(0deg,#11110fff 5%,#11110ff0 52%,#11110f50 82%)}}
 /* Ostrzejsza, lepiej skomponowana fotografia hero */
-.hero-image{background-image:url("assets/servets-hero-v2.png");background-position:center;filter:brightness(.74) saturate(.9)}
+.hero-image{background-image:url("assets/servets-hero-v2.webp");background-position:center;filter:brightness(.74) saturate(.9)}
 @media(max-width:900px){.hero-image{background-position:67% center;filter:brightness(.7) saturate(.88)}}
